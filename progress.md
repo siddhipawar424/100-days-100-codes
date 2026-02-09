@@ -1,2 +1,3 @@
 - Day 01 ✅ Reverse Array (Bruteforce → Optimized, Java)
 - Day 02 ✅ Equilibrium Index in an Array (Bruteforce → Optimized, Java)
+- Day 03 ✅ Second Smallest Element in Array (Sorting-based Bruteforce → Single-pass Optimized, Java)
